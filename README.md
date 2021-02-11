@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with machine learning 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### Connect with me:
+### Contact with me
 [<img align="left" alt="discord" width="22px" src="http://fern.fun/img/github/discord-color.svg" />][discord]
 [<img align="left" alt="mail" width="22px"  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][mail]
 
