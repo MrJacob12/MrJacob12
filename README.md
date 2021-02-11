@@ -10,6 +10,7 @@
 [<img align="left" alt="mail" width="22px"  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][mail]
 
 <br />
+
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="HTML5" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
