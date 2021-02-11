@@ -1,16 +1,14 @@
-### Hi there 👋
+###Hi there, I'm Jacob 👋 [Fern.fun][website]
+ 
+- 🔭 I’m currently working on [virtual assistant][working-on]
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for help with machine learning 
 
-<!--
-**MrJacob12/MrJacob12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
+[<img align="left" alt="discord" width="22px" src="http://fern.fun/img/github/discord.svg" />][discord]
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[working-on]: https://github.com/MrJacob12/AI-Assistant
+[website]: http://fern.fun
+[discord]: https://discord.gg/pXvjyWqYMF
