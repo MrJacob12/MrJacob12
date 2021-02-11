@@ -17,6 +17,7 @@
 <img align="left" alt="CSS3" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
 <img align="left" alt="MySQL" width="26px" height="28px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 <img align="left" alt="GitHub" width="26px" height="28px" src="http://fern.fun/img/github/github.png" />
+<img align="left" alt="Python" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 
 [working-on]: https://github.com/MrJacob12/AI-Assistant
 [website]: http://fern.fun
