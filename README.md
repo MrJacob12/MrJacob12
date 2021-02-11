@@ -1,4 +1,5 @@
 ### Hi there, I'm Jacob 👋 [Fern.fun][website]
+ ---
  
 - 🔭 I’m currently working on [virtual assistant][working-on]
 - 🌱 I’m currently learning Python
