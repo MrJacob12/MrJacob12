@@ -6,7 +6,7 @@
 
 ### Connect with me:
 [<img align="left" alt="discord" width="22px" src="http://fern.fun/img/github/discord.svg" />][discord]
-[<img align="left" alt="mail" width="22px" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" />][mail]
+[<img align="left" alt="mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][mail]
 
 <br />
 ### Languages and Tools:
