@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on [virtual assistant][working-on]
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with machine learning 
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 [<img align="left" alt="discord" width="22px" src="http://fern.fun/img/github/discord-color.svg" />][discord]
