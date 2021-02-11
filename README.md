@@ -12,11 +12,11 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="HTML5" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="CSS3" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
-<img align="left" alt="GitHub" width="26px" src="http://fern.fun/img/github/github.png" />
+<img align="left" alt="MySQL" width="26px" height="28px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
+<img align="left" alt="GitHub" width="26px" height="28px" src="http://fern.fun/img/github/github.png" />
 
 [working-on]: https://github.com/MrJacob12/AI-Assistant
 [website]: http://fern.fun
