@@ -19,6 +19,7 @@
 <img align="left" alt="GitHub" width="28px" height="28px" src="http://fern.fun/img/github/github.png" />
 <img align="left" alt="Python" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="PHP" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+<img align="left" alt="C#" width="26px" height="28px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
 
 [working-on]: https://github.com/MrJacob12/AI-Assistant
 [website]: http://fern.fun
