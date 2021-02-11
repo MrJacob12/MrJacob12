@@ -1,4 +1,4 @@
-###Hi there, I'm Jacob 👋 [Fern.fun][website]
+### Hi there, I'm Jacob 👋 [Fern.fun][website]
  
 - 🔭 I’m currently working on [virtual assistant][working-on]
 - 🌱 I’m currently learning Python
@@ -6,9 +6,12 @@
 
 ### Connect with me:
 [<img align="left" alt="discord" width="22px" src="http://fern.fun/img/github/discord.svg" />][discord]
+[<img align="left" alt="mail" width="22px" src="http://fern.fun/img/github/mail.svg" />][mail]
 
+<br />
 ### Languages and Tools:
 
 [working-on]: https://github.com/MrJacob12/AI-Assistant
 [website]: http://fern.fun
 [discord]: https://discord.gg/pXvjyWqYMF
+[mail]: mailto:admin@fern.fun?Subject=Hello%20world!
