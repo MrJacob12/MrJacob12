@@ -1,7 +1,7 @@
 ### Hi there, I'm Jacob 👋 [Fern.fun][website]
  ---
  
-- 🔭 I’m currently working on [virtual assistant][working-on]
+- 🔭 I’m currently working on [fern.fun][working-on]
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with machine learning 
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -22,7 +22,7 @@
 <img align="left" alt="PHP" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 <img align="left" alt="C#" width="26px" height="28px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
 
-[working-on]: https://github.com/MrJacob12/AI-Assistant
+[working-on]: http://fern.myftp.org/
 [website]: http://fern.fun
 [discord]: https://discord.gg/pXvjyWqYMF
 [mail]: mailto:admin@fern.fun?Subject=Hello%20world!
