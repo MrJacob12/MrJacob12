@@ -1,15 +1,15 @@
 ### Hi there, I'm Jacob 👋 [Fern.fun][website]
  ---
  
-<p align="left">
+<p>
 - 🔭 I’m currently working on [fern.fun][working-on]
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with machine learning 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 </p>
 
-<h3 align="right">My Stats:</h3>
-<p align="left"><img height="120em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mrjacob12&theme=dark" />
+<h3>My Stats:</h3>
+<img height="120em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mrjacob12&theme=dark" />
 
 ### Contact with me
 [<img align="left" alt="discord" width="22px" src="http://fern.fun/img/github/discord-color.svg" />][discord]
