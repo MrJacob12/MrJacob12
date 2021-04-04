@@ -15,15 +15,8 @@
 
 <br />
 
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-<img align="left" alt="HTML5" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
-<img align="left" alt="CSS3" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
-<img align="left" alt="MySQL" width="26px" height="28px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
-<img align="left" alt="GitHub" width="28px" height="28px" src="http://fern.fun/img/github/github.png" />
-<img align="left" alt="Python" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-<img align="left" alt="PHP" width="26px" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
-<img align="left" alt="C#" width="26px" height="28px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 [working-on]: http://fern.myftp.org/
 [website]: http://fern.fun
