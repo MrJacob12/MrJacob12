@@ -6,6 +6,9 @@
 - 🤔 I’m looking for help with machine learning 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+### My Stats
+<img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mrjacob12&theme=dark" />
+
 ### Contact with me
 [<img align="left" alt="discord" width="22px" src="http://fern.fun/img/github/discord-color.svg" />][discord]
 [<img align="left" alt="mail" width="22px"  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][mail]
