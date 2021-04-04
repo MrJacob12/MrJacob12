@@ -11,8 +11,9 @@
 <img height="120em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mrjacob12&theme=dark" />
 
 ### Contact with me
-[<img align="left" alt="discord" width="22px" src="http://fern.fun/img/github/discord-color.svg" />][discord]
-[<img align="left" alt="mail" width="22px"  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][mail]
+<p align="left">
+<a href="https://discord.gg/https://discord.gg/pXvjyWqYMF" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/pXvjyWqYMF" height="30" width="40" /></a>
+</p>
 
 <br />
 
