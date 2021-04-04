@@ -1,12 +1,11 @@
 ### Hi there, I'm Jacob 👋 [Fern.fun][website]
  ---
  
-<p>
 - 🔭 I’m currently working on [fern.fun][working-on]
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with machine learning 
 - 🥅 2021 Goals: Contribute more to Open Source projects
-</p>
+
 
 <h3>My Stats:</h3>
 <img height="120em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mrjacob12&theme=dark" />
