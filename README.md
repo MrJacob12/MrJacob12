@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with machine learning 
 - 🥅 2021 Goals: Contribute more to Open Source projects
+</p>
 
 <h3 align="right">My Stats:</h3>
-<img height="120em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mrjacob12&theme=dark" />
+<p align="left"><img height="120em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mrjacob12&theme=dark" />
 
 ### Contact with me
 [<img align="left" alt="discord" width="22px" src="http://fern.fun/img/github/discord-color.svg" />][discord]
