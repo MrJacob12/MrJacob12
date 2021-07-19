@@ -2,7 +2,7 @@
  ---
  
 - 🔭 I’m currently working on [fern.fun][working-on]
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning [React](https://reactjs.org)
 - 🤔 I’m looking for help with machine learning 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
