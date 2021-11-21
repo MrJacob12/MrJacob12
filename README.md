@@ -2,7 +2,7 @@
  ---
  
 - 🔭 I’m currently working on [fern.fun][working-on]
-- 🌱 I’m currently learning [react](https://reactjs.org)
+- 🌱 I’m currently learning [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - 🤔 I’m looking for help with machine learning 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
