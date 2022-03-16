@@ -9,7 +9,7 @@
 
 <h3>My Stats:</h3>
 <img align="left" height="120em" src="https://github-readme-stats.vercel.app/api?username=mrjacob12&show_icons=true&locale=en&theme=dark" alt="mrjacob12" /></p>
-<img height="120em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mrjacob12&theme=dark" />
+<img height="120em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mrjacob12&theme=dark&layout=compact" />
 
 <br />
 
