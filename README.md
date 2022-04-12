@@ -2,7 +2,7 @@
  ---
  
 - 🔭 I’m currently working on [CLR][working-on]
-- 🌱 I’m currently learning [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- 🌱 I’m currently learning [Python](https://www.python.org)
 - 🤔 I’m looking for help with machine learning 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
