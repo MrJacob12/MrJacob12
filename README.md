@@ -5,13 +5,14 @@
 - 🔭 I’m currently working on [CLR][working-on]
 - 🌱 I’m currently learning [Python](https://www.python.org)
 - 🤔 I’m looking for help with machine learning
+- 📫 How to reach me **jakub.buciuto@gmail.com**
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ## My Stats:
 
 <img align="left" height="120em" src="https://github-readme-stats.vercel.app/api?username=mrjacob12&show_icons=true&locale=en&theme=dark" alt="mrjacob12" /></p>
 <img height="120em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mrjacob12&theme=dark&layout=compact" />
-
+<img height="120em" src="http://github-readme-streak-stats.herokuapp.com?user=mrjacob12&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 <br />
 
 ## Languages and Tools:
