@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working on [CLR][working-on]
+- 🔭 I’m currently working on [...](https://github.com/Fern-fun)
 - 🌱 I’m currently learning [Python](https://www.python.org)
 - 🤔 I’m looking for help with machine learning
 - 📫 How to reach me **jakub.buciuto@gmail.com**
@@ -24,7 +24,6 @@
 
 <p><a href="https://www.buymeacoffee.com/mrjacob"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrjacob" /></a></p><br><br>
 
-[working-on]: https://github.com/Fern-fun/CLR
 [website]: http://fern.fun
 [discord]: https://discord.gg/pXvjyWqYMF
-[mail]: mailto:admin@fern.fun?Subject=Hello%20world!
+[mail]: mailto:jakub.buciuto@gmail.com?Subject=Hello%20world!
