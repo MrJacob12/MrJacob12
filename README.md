@@ -3,10 +3,10 @@
 ---
 
 - 🔭 I’m currently working on [...](https://github.com/Fern-fun)
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org) & C 🤔 
 - 🤔 I’m looking for help with machine learning
 - 📫 How to reach me **jakub.buciuto@gmail.com**
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ## My Stats:
 
