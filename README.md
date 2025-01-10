@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C# 🤔 
 - 🤔 I’m looking for help with machine learning
 - 📫 How to reach me **jakub.buciuto@gmail.com**
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 ## My Stats:
 
