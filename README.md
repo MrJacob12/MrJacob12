@@ -17,15 +17,15 @@
 
 ## Languages and Tools:
 
-<p align="center">
+<p  align="left"">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwindcss,vite,cloudflare" />
 </p>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,php,mysql,postgresql,docker,raspberrypi" />
+<p  align="left">
+    <img src="https://skillicons.dev/icons?i=python,rust,php,mysql,postgresql,docker,raspberrypi" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=unity,cs,godot,lua" />
 </p>
 
