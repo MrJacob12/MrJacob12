@@ -3,10 +3,10 @@
 ---
 
 - 🔭 I’m currently working on [...](https://github.com/Fern-fun)
-- 🌱 I’m currently learning C# 🤔 
+- 🌱 I’m currently learning PHP/GO 🤔 
 - 🤔 I’m looking for help with machine learning
 - 📫 How to reach me **jakub.buciuto@gmail.com**
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Make Game
 
 ## My Stats:
 
