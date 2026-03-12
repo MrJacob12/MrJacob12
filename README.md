@@ -1,4 +1,4 @@
-### Hi there, I'm Jacob 👋 [Fern.fun][website]
+### Hi there, I'm [Jacob][website] 👋
 
 ---
 
@@ -34,6 +34,6 @@
 
 <p><a href="https://www.buymeacoffee.com/mrjacob"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrjacob" /></a></p><br><br>
 
-[website]: http://fern.fun
+[website]: https://jakub.buciuto.com/
 [discord]: https://discord.gg/pXvjyWqYMF
 [mail]: mailto:jakub.buciuto@gmail.com?Subject=Hello%20world!
